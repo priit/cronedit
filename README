@@ -1,0 +1,6 @@
+Fork of CronEdit in order to rewrite it more ruby style
+
++ add some additional features.
+
+Finally let's hope I can merge back to original CronEdit gem, but
+meanwhile let's enjoy this rewrite :-)
